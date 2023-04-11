@@ -1,0 +1,6 @@
+[submodule "P12-front-end-dashboard"]
+	path = P12-front-end-dashboard
+	url = https://github.com/tunsay/P12-front-end-dashboard
+[submodule "P12-back-end-dashboard"]
+	path = P12-back-end-dashboard
+	url = https://github.com/tunsay/P12-back-end-dashboard
